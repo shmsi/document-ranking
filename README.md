@@ -7,6 +7,8 @@ Traditional document ranking methods can only retrieve documents which contains 
 You can read more about enrichment procedure in chapter 3.3 of the following document. [Topic Modeling and Clustering for Analysis of Road Traffic Accidents](https://publications.lib.chalmers.se/records/fulltext/250497/250497.pdf) 
 ### Dependencies
 Python 2.7.12
+
 [gensim](https://radimrehurek.com/gensim/)
+
 [scikit learn](http://scikit-learn.org/stable/index.html)
 
